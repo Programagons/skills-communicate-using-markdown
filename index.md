@@ -4,3 +4,8 @@
 ``` javascript
 var myVar = "Hola mundo!";
 ```
+
+
+- [x] Encender páginas GitHub
+- [ ] Esbozo de mi portfolio
+- [ ] Presentarme al mundo
